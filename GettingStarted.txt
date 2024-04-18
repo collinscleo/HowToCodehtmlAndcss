@@ -1,0 +1,16 @@
+Hello, if you get lost at any point during this course you can always come back here for lists of resaurses and startup links, 
+The repository will be updated yearly wityh new info to help you progress in your coding journey.
+
+Let's get started, inorder to start coding in this course you will need to first download a few things:
+
+First download VSCode. 
+VS Code is a free and open-source code editor developed by Microsoft. It is a lightweight yet powerful tool that supports a wide range of programming languages 
+and provides features like integrated debugging, version control integration, and a rich ecosystem of extensions. VS Code is highly customizable and popular among developers for its 
+flexibility and productivity-enhancing capabilities. 
+Link to dowload VSCode: https://code.visualstudio.com/download 
+
+Next you will need to dowload Github for desktop.
+GitHub Desktop is a free, open-source application that provides a graphical user interface for interacting with GitHub repositories. It simplifies the process of working with Git and 
+GitHub, making it more accessible for beginners. GitHub Desktop also encourages best practices for maintaining a clean commit history, and integrates seamlessly with the GitHub platform, 
+allowing users to perform common GitHub tasks directly from the desktop application.
+Link to dowload Github for desktop: https://desktop.github.com/
